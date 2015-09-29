@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 文殊師利發願經
+#+DATE: 2015-09-28 22:56:41.634946
+#+PROPERTY: JUAN 0
