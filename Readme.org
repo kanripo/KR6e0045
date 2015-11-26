@@ -1,11 +1,15 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:56:42.001474
-#+TITLE: 文殊師利發願經
-#+PROPERTY: CBETA_ID T10n0296
-#+PROPERTY: ID KR6e0045
-#+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 296
-#+PROPERTY: VOL 10
-#+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS T@SONG
-#+PROPERTY: LASTPB <pb:KR6e0045_T_000-0878c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+#+TITLE: 文殊師利發願經 / T@SONG
+#+DATE: 2015-11-26 14:12:34.526444
+* 版本
+ |     CBETA|【電子佛典集成】|
+ |         T|【大】     |
+ |    T@GONG|【大→宮】   |
+ |      T@LI|【大→麗】   |
+ |    T@MING|【大→明】   |
+ |    T@SONG|【大→宋】   |
+ |    T@YUAN|【大→元】   |
+ |       TKD|【高麗藏・東國影印版】|
 
+* 目次
+* 卷
+** [[file:KR6e0045_001.txt][文殊師利發願經 1]]
