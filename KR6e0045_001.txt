@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:56:42.013701
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:44
 #+TITLE: 文殊師利發願經
 #+PROPERTY: CBETA_ID T10n0296
 #+PROPERTY: ID KR6e0045
@@ -196,7 +196,7 @@ No. 296 [No. 297; cf. 293(Fasc. 40)]¶
 　嚴淨普賢行，
 　滿足文殊願，¶
 　盡未來際劫，
-　究竟菩薩行。
+　究竟菩薩行。」
 #+END_VERSE
-」¶
+¶
 《文殊師利發願經》
